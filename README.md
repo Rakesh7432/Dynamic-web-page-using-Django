@@ -1,1 +1,0 @@
-# Dynamic-web-page-using-Django
