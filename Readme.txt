@@ -5,7 +5,7 @@
 	step 1:
 		extract rakesh.rar
 	step 2:
-		download PostgreSql and connect it with out project:
+		download and install PostgreSql and connect it with outr project:
 			1.go to folder rakesh then rakesh_project then again the the rakesh_project folder 
 			2.Change in settings.py
 			3.change the database part for mine it is:
